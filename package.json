@@ -1,0 +1,15 @@
+{
+  "name": "hcltech_hackathon",
+  "version": "1.0.0",
+  "description": "A full-stack web application built for the HCLTech  This Minimum Viable Product (MVP) provides a secure, role-based portal for patients to track wellness goals and for healthcare providers to monitor patient compliance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
