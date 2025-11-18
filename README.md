@@ -15,8 +15,10 @@ Table of Contents
 
 Patient Dashboard
  A clear overview of daily goals, reminders, and health tips.
- 1 Login & Public Page
- 2.Secure login and a public-facing page with general health information.
+  
+  1 Login & Public Page
+ 
+  2.Secure login and a public-facing page with general health information.
 
 
 
@@ -58,6 +60,7 @@ Deployment
 
 
  
+
 
 
 
