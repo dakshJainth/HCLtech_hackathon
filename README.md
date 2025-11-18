@@ -45,20 +45,26 @@ RESTful API: A clean, well-structured API serves as the backbone for communicati
 
 Tech Stack
 
+
  Frontend
      Reactjs,tailwind ,html, css and js
+
 Backend
      Nodejs, express js 
+
 Database
       Mongo db
+
 Authentication 
    Json web Tokens, bycrpt.js
+
 Deployment
    Vercel(frontend),render(backend),mogodb atlas(database)
 
 
 
  
+
 
 
 
