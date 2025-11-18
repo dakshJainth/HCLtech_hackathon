@@ -53,11 +53,12 @@ Database
 Authentication 
    Json web Tokens, bycrpt.js
 Deployment
-   Vercel,render,mogodb atlas
+   Vercel(frontend),render(backend),mogodb atlas(database)
 
 
 
  
+
 
 
 
