@@ -24,19 +24,19 @@ Key Features
 For Patients:
 -   Profile Management: View and edit personal and basic health information (allergies, medications).
 -   Personalized Dashboard: At-a-glance view of wellness goal progress (steps, sleep, water intake).
--   Goal Tracking:** Simple interface to log daily wellness activities.
+-   Goal Tracking: Simple interface to log daily wellness activities.
 -   Preventive Care Reminders:Get notified about upcoming appointments and checkups.
 -   Health Tip of the Day:Receive a simple, actionable health tip daily.
 
 For Healthcare Providers:
  Secure Login: Separate and secure access for healthcare professionals.
--  Patient Compliance View:** View a list of assigned patients and their compliance status (e.g., "Goal Met," "Missed Checkup").
+-  Patient Compliance View: View a list of assigned patients and their compliance status (e.g. "Goal Met," "Missed Checkup").
 - Patient List:Easily navigate to see more detailed goal and compliance data for each patient.
 
 General & Security:
--   Secure Authentication System:** Robust registration and login using JWT (JSON Web Tokens) with appropriate expiration.
+-   Secure Authentication System: Robust registration and login using JWT (JSON Web Tokens) with appropriate expiration.
 -   Password Security: All user passwords are securely hashed using bcrypt  js.
-Consent & Privacy:** A consent checkbox is implemented during registration, and a static privacy policy page is available.
+Consent & Privacy: A consent checkbox is implemented during registration, and a static privacy policy page is available.
 RESTful API: A clean, well-structured API serves as the backbone for communication between the frontend and backend.
 
 
@@ -58,6 +58,7 @@ Deployment
 
 
  
+
 
 
 
